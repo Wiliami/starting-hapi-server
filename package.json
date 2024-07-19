@@ -1,0 +1,20 @@
+{
+  "name": "starting-hapi-server",
+  "version": "1.0.0",
+  "description": "Iniciando estudos com framework hapi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "author": "Wiliamis Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10"
+  }
+}
